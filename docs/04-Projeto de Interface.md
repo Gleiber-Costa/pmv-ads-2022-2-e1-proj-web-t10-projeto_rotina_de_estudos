@@ -62,6 +62,29 @@ Na página principal, o usuário poderá escolher a remoção do conteúdo cadas
 
 ![image](https://user-images.githubusercontent.com/115125596/196009615-38de4b3f-c72c-4966-a79e-0c117ae28673.png)
 
+Tela – Edição de Cadastro
+
+Na página principal, o usuário poderá acessar o tópico minha conta, que direcionará o usuário à página que permite fazer edições em seu cadastro ou excluir a conta. Se o usuário desejar editar seus dados, basta fazer a alteração e clicar em salvar. Caso queira excluir a conta, ele deverá clicar no botão vermelho que apresenta a mensagem excluir minha conta. Após salvar ou excluir, o usuário será redirecionado para a página principal. 
+
+![image](https://user-images.githubusercontent.com/115903741/196061624-7a65f792-55c6-4a83-a874-08778f60ed37.png)
+
+Tela – Confirmação de Cancelamento de Conta
+
+Na página edição de cadastro, o usuário que selecionar a opção excluir minha conta, será direcionado para a página de confirmação de cancelamento de conta, que apresentará a mensagem que após removida a conta não será possível recuperá-la e para dar continuidade basta clicar no botão confirmar exclusão. Caso o usuário decida não excluir, ele poderá cancelar a operação. Após a exclusão ou cancelamentor, o usuário será redirecionado para a página principal. 
+
+![image](https://user-images.githubusercontent.com/115903741/196061640-3cccda15-a3e2-4b07-985a-fd9993491e8d.png)
+
+Tela – Acompanhe seu Progresso
+
+Na página principal, o usuário poderá acessar o tópico relatório, que direcionará o usuário à página que permite acompanhar o seu progresso. Nesta página o usuário acompanhará a quantidade de conteúdos cadastrados, as tarefas não iniciadas, em andamento e as concluídas. Se o usuário estiver com várias atividades cadastradas e nenhuma concluída, aparecerá uma dica para que ele inicie os estudos. Se a quantidade de tarefas cadastradas e concluídas forem iguais, o usuário receberá uma mensagem de parabéns como incentivo. Ele poderá acompanhar o status de sua evolução pelo indicador colorido posicionado em frente o tópico meu desempenho. Se não houver iniciado nenhuma atividade o círculo ficará vermelho, quando estiver com tarefas em andamento ficará amarelo e quando concluir todos os conteúdos, ficará verde. Após a conferência, o usuário retornará à página principal clicando em voltar. 
+
+![image](https://user-images.githubusercontent.com/115903741/196061649-cd79f748-bce5-4649-90cc-2f762ff90891.png)
+
+Tela – Inclusão do Edital
+Na página principal, o usuário poderá acessar o tópico meu edital, que direcionará o usuário à página que permite incluir o link do seu edital e fazer anotações úteis. Se o usuário fizer as edições, ele deverá salvar clicando no botão verde, e caso, opte por não incluir nenhum item, basta cancelar. Após salvar ou cancelar, o usuário será redirecionado para a página principal. 
+
+![image](https://user-images.githubusercontent.com/115903741/196061658-540c2313-8a3a-4928-acbe-fcdcbb8532fd.png)
+
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
